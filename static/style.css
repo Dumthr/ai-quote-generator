@@ -1,0 +1,42 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  width: 50%;
+  margin: auto;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.quote-box {
+  font-size: 1.5em;
+  margin: 20px 0;
+}
+
+button {
+  margin: 10px;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+select {
+  font-size: 1em;
+  padding: 6px 12px;
+  margin: 10px;
+  border-radius: 6px;
+}
